@@ -1,5 +1,4 @@
 # ereader-os
-the os for an ereader im making. supports pdfs and epubs. read the readme!
 
 add all books in python-ereader/books
   currently, pdfs read right to left instead of left to right, since im mainly only using pdfs to read manga
