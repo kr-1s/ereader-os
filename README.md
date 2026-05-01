@@ -2,6 +2,8 @@
 
 add all books in python-ereader/books
 
+navigate with left/right arrows and z to select
+
   currently, pdfs read right to left instead of left to right, since im mainly only using pdfs to read manga
   
   when i add a settings page ill probably add toggling between right to left and left to right
