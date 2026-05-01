@@ -1,4 +1,4 @@
-# ereader-os
+# ereader
 
 add all books in python-ereader/books
 
